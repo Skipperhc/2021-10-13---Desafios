@@ -1,0 +1,45 @@
+App 9
+Crie um projeto NodeJS com "npm init", seguindo os padrões necessários.
+
+Dê um nome para o projeto, e um número de versão específica.
+
+Acesse o site do NPM e escolha uma biblioteca para instalar no seu projeto - pode ser uma biblioteca simples.
+
+============
+
+App 10
+Crie um projeto NodeJS que faça uma request para a URL abaixo.
+Você pode utilizar as libs ""https"", ""axios"" ou ""superagent"".
+Busque elas no site do NPM, e leia a documentação para ver como funciona a implementação.
+Imprima o resultado retornado.
+
+https://jsonplaceholder.typicode.com/todos
+
+============
+
+App 11
+Crie um projeto NodeJS e implemente a biblioteca Express.
+
+Crie uma API simples, que escute os métodos GET, POST e PUT.
+
+Dentro de cada método, retorne para o cliente um JSON identificando o tipo de execução que ele disparou.
+
+============
+
+App 12
+Mescle o seu projeto do item 10 com o item 11.
+
+Ou seja, quando o cliente executar um GET, consulte essa URL e devolva o resultado para o cliente pelo Express.
+
+============
+
+App 13
+Crie um repositório no Github para o seu projeto.
+Inicie um projeto NodeJS neste repositório.
+Crie as branches master e develop.
+
+Crie uma branch feature/desenvolvimento com base na develop.
+Instale o Express nessa branch, e inicie uma API simples, somente com um GET.
+Faça o commit na branch feature/desenvolvimento.
+
+Se possível, suba o repositório no GitHub.
